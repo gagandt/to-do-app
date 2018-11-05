@@ -4,3 +4,4 @@ Using :
 - express
 - ejs
 - body-parser
+- mongoose
